@@ -1,0 +1,32 @@
+import React, { useState } from 'react';
+import { FaWhatsapp, FaFacebookMessenger, FaTelegramPlane, FaEnvelope, FaPhoneVolume } from 'react-icons/fa';
+
+const ChatWidget = ({ chats, socials, mails, contacts }) => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  return (
+    <div className="container">
+      <div className="cp-style1 cp-right-bottom">
+        <div className="cp-panel" style={{ display: isOpen ? 'block' : 'none' }}>
+          {chats.map((chat, i) => (
+            <a key={i} className="cp-list cp-whatsapp" href={`https://wa.me/${chat}`} target="_blank">
+              <div className="cp-image">
+                <FaWhatsapp className="text-white fa-2x mt-2" />
+              </div>
+              <div className="cp-content">
+                <h2>Whatsapp</h2>
+                <p>Chat on Whatsapp</p>
+              </div>
+            </a>
+          ))}
+          {/* Add similar blocks for Facebook Messenger, Telegram, Email, and Call */}
+        </div>
+        <div className="cp-button cp-right-bottom" onClick={() => setIsOpen(!isOpen)}>
+          <i id="cp-cmt-o" className="far fa-comments fa-lg"></i>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default ChatWidget;

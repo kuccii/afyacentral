@@ -16,7 +16,7 @@ const SectionTitle = ({
             centerAlign ? "section-heading text-center" : "section-heading"
           } ${classNam}`}
         >
-          <h4 className={`h5 ${dark ? "text-warning" : "text-primary"}`}>
+          <h4 className={`h5 ${dark ? "" : "text-primary"}`}>
             {subtitle}
           </h4>
           <h2>{title}</h2>

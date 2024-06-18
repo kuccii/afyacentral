@@ -36,13 +36,13 @@ export default function PaymentFeature() {
             <div className="benifits-right mt-5 mt-lg-0">
               <div className="benifits-right-content">
                 <h2 className="mb-3">
-                  One App with thousands of{" "}
-                  <span className="gr-text">Benefits</span>
+                  What you get from our{" "}
+                  <span className="gr-text">marketplace</span>
                 </h2>
                 <p className="m-0">
-                  Globally expedite sticky platforms whereas end-to-end vortals.
+                  {/* Globally expedite sticky platforms whereas end-to-end vortals.
                   Energistically synergize emerging . Monotonectally incubate
-                  bleeding-edge e-business
+                  bleeding-edge e-business */}
                 </p>
               </div>
               <div className="row">
@@ -51,10 +51,10 @@ export default function PaymentFeature() {
                     <div className="benifit-icon one">
                       <img src="/bi-1.png" alt="icon" />
                     </div>
-                    <h5>Easy Interface Design</h5>
+                    <h5>Market Expation</h5>
                     <p className="m-0">
-                      Globally expedite stick Energisticall synergize emerging
-                      generation go incubate bleeding-edge.
+                      {/* Globally expedite stick Energisticall synergize emerging
+                      generation go incubate bleeding-edge. */}
                     </p>
                     <Link href="/about-us">
                       <a className="link-with-icon text-decoration-none">
@@ -71,10 +71,50 @@ export default function PaymentFeature() {
                     <div className="benifit-icon two">
                       <img src="/bi-2.png" alt="icon" />
                     </div>
-                    <h5>Easy Sign Up</h5>
+                    <h5>Market Access</h5>
                     <p className="m-0">
-                      Globally expedite stick Energisticall synergize emerging
-                      generation go incubate bleeding-edge.
+                      {/* Globally expedite stick Energisticall synergize emerging
+                      generation go incubate bleeding-edge. */}
+                    </p>
+                    <Link href="/about-us">
+                      <a className="link-with-icon text-decoration-none">
+                        Explore More{" "}
+                        <i>
+                          <FiArrowRight />
+                        </i>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+                <div className="col-lg-6">
+                  <div className="single-benifit">
+                    <div className="benifit-icon two">
+                      <img src="/bi-2.png" alt="icon" />
+                    </div>
+                    <h5>Access to information</h5>
+                    <p className="m-0">
+                      {/* Globally expedite stick Energisticall synergize emerging
+                      generation go incubate bleeding-edge. */}
+                    </p>
+                    <Link href="/about-us">
+                      <a className="link-with-icon text-decoration-none">
+                        Explore More{" "}
+                        <i>
+                          <FiArrowRight />
+                        </i>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+                <div className="col-lg-6">
+                  <div className="single-benifit">
+                    <div className="benifit-icon two">
+                      <img src="/bi-2.png" alt="icon" />
+                    </div>
+                    <h5>Increase profit</h5>
+                    <p className="m-0">
+                      {/* Globally expedite stick Energisticall synergize emerging
+                      generation go incubate bleeding-edge. */}
                     </p>
                     <Link href="/about-us">
                       <a className="link-with-icon text-decoration-none">
@@ -87,6 +127,7 @@ export default function PaymentFeature() {
                   </div>
                 </div>
               </div>
+              
             </div>
           </div>
         </div>

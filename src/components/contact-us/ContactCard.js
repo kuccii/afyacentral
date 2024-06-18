@@ -40,7 +40,7 @@ const ContactCard = () => {
                 <h5>Email Us</h5>
                 <p>
                   Simple drop us an email at{' '}
-                  <strong>info@tradeln.com </strong> 
+                  <strong>info@qivook.com </strong> 
                   and you will receive a reply within 24 hours
                 </p>
               </div>
@@ -66,7 +66,7 @@ const ContactCard = () => {
                 </p>
               </div>
               <a href="tel:00-976-561-008" className="btn btn-link mt-auto">
-                00-976-561-008
+                250 717 749 710
               </a>
             </div>
           </div>
