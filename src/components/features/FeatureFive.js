@@ -13,7 +13,7 @@ const FeatureFive = () => {
           <div className="row justify-content-center">
             <div className="col-lg-8 col-md-10">
               <div className="section-heading text-center">
-                <h2>Explore Premium Features</h2>
+                <h2>Transforming Maternal & Infant Care</h2>
                 <p>
                   A bit of how is your father he nicked it charles daft plant
                   lavator.
@@ -32,10 +32,9 @@ const FeatureFive = () => {
                       </i>
                     </div>
                     <div className="app-two-single-feature-content">
-                      <h3 className="h5">Easy to Customized</h3>
+                      <h3 className="h5">Continuous Vital Monitoring</h3>
                       <p>
-                        Authoritatively productize orthogonal networks rather
-                        than state of the art interfaces.
+                      Real-time tracking of vital health indicators to detect issues early.
                       </p>
                       <Link href="/single-service">
                         <a className="link-with-icon text-decoration-none">
@@ -57,10 +56,9 @@ const FeatureFive = () => {
                       </i>
                     </div>
                     <div className="app-two-single-feature-content">
-                      <h3 className="h5">Mobile App</h3>
+                      <h3 className="h5">Secure Data Connectivity</h3>
                       <p>
-                        Enthusiastically envisioneer integrated catalysts for
-                        change before fully researched vortals.
+                      Private, accessible data for healthcare providers and mothers.
                       </p>
                       <Link href="/single-service">
                         <a className="link-with-icon text-decoration-none">
@@ -82,10 +80,9 @@ const FeatureFive = () => {
                       </i>
                     </div>
                     <div className="app-two-single-feature-content">
-                      <h3 className="h5">Expand your reach</h3>
+                      <h3 className="h5">Proactive Healthcare</h3>
                       <p>
-                        Authoritatively syndicate focused ideas whereas
-                        revolutionary outsourcing.
+                      Remote monitoring and timely interventions to improve outcomes.
                       </p>
                       <Link href="/single-service">
                         <a className="link-with-icon text-decoration-none">
@@ -106,10 +103,9 @@ const FeatureFive = () => {
                       </i>
                     </div>
                     <div className="app-two-single-feature-content">
-                      <h3 className="h5">Free Download</h3>
+                      <h3 className="h5">Informed Caregiving</h3>
                       <p>
-                        Rapidiously reintermediate plug-and-play potentialities
-                        via cross-unit e-markets.
+                      Empowering mothers with tools to closely track and manage their family's health.
                       </p>
                       <Link href="/single-service">
                         <a className="link-with-icon text-decoration-none">
