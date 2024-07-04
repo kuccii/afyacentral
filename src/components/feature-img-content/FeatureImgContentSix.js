@@ -22,12 +22,11 @@ const FeatureImgContentSix = () => {
           <div className="col-xl-5 col-lg-5">
             <div className="app-two-feature-two-right">
               <div className="feature-content-wrap">
-                <h4 className="h6">Best Features</h4>
-                <h2>Boost up your Phone in just one click</h2>
+                <h4 className="h6">Connecting Mothers to Life-Saving Care</h4>
+                <h2>How It Works</h2>
                 <p>
-                  Completely evolve orthogonal sources via cooperative data.
-                  Dynamically promote high standards in resources after timely
-                  catalysts for alignments and visionary quality vectors.
+                This integrated system enables early detection and remote access to quality care 
+                 transforming outcomes in underserved communities.
                 </p>
               </div>
               <div className="app-two-feature-two-content">
@@ -36,38 +35,27 @@ const FeatureImgContentSix = () => {
                     <i>
                       <FaRegCheckCircle className="fad me-2" />
                     </i>
-                    Based on Bootstrap Grid
+                    Lightweight wearable tracks vital health indicators.
                   </li>
                   <li className="py-1">
                     <i>
                       <FaRegCheckCircle className="fad me-2" />
                     </i>
-                    Online Learning
+                    Data securely transmitted to mobile app and web platform.
                   </li>
                   <li className="py-1">
                     <i>
                       <FaRegCheckCircle className="fad me-2" />
                     </i>
-                    Track your spending
+                    Providers remotely monitor data and deliver care recommendations.
                   </li>
                   <li className="py-1">
                     <i>
                       <FaRegCheckCircle className="fad me-2" />
                     </i>
-                    Unlimited Download
+                    Mothers track child's health, receive alerts, and communicate with care team.
                   </li>
-                  <li className="py-1">
-                    <i>
-                      <FaRegCheckCircle className="fad me-2" />
-                    </i>
-                    Responisve Design
-                  </li>
-                  <li className="py-1">
-                    <i>
-                      <FaRegCheckCircle className="fad me-2" />
-                    </i>{' '}
-                    Always Be in Touch
-                  </li>
+                  
                 </ul>
                 <div className="action-btns mt-5">
                   <Link href="/about-us">

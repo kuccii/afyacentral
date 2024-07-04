@@ -11,12 +11,9 @@ const FeatureImgContentSeven = () => {
           <div className="col-lg-5 col-xl-5 col-sm-12">
             <div className="app-two-feature-three-left">
               <div className="app-content-feature-wrap">
-                <h2>We provide Quality works for developed App</h2>
+                <h2>Transforming Maternal & Infant Outcomes</h2>
                 <p>
-                  Car boot absolutely bladdered posh burke the wireless mush
-                  some dodgy chav you mug. Energistically conceptualize scalable
-                  quality vectors through wireless channels. .
-                </p>
+                Our integrated system helps overcome barriers to healthcare access in underserved regions                </p>
               </div>
               <div
                 className="accordion faq-accordion mt-5"
@@ -34,7 +31,7 @@ const FeatureImgContentSeven = () => {
                       <i className="far pe-3">
                         <BsBell />
                       </i>{' '}
-                      How does back pricing work?
+                      Remote Monitoring
                     </button>
                   </h5>
                   <div
@@ -44,9 +41,7 @@ const FeatureImgContentSeven = () => {
                     data-bs-parent="#accordionExample"
                   >
                     <div className="accordion-body">
-                      Dramatically formulate cross-unit products with
-                      web-enabled action items. Quickly maximize extensible
-                      methods of empowerment.
+                    Healthcare providers can remotely track patient data and intervene early, reducing the need for in-person visits.
                     </div>
                   </div>
                 </div>
@@ -62,7 +57,7 @@ const FeatureImgContentSeven = () => {
                       <i className="far pe-3">
                         <BiCommand />
                       </i>
-                      Can you show me an example?
+                      Streamlined Communication
                     </button>
                   </h5>
                   <div
@@ -72,9 +67,8 @@ const FeatureImgContentSeven = () => {
                     data-bs-parent="#accordionExample"
                   >
                     <div className="accordion-body">
-                      Continually innovate technically sound internal or
-                      organic sources with market positioning content.
-                      Completely drive optimal intellectual.
+                    Mothers can directly connect with their care team through the mobile app, 
+                    facilitating timely consultations and care coordination.
                     </div>
                   </div>
                 </div>
@@ -90,7 +84,7 @@ const FeatureImgContentSeven = () => {
                       <i className="fas pe-3">
                         <BiLink />
                       </i>
-                      How do I processing I need?
+                      Streamlined Communication
                     </button>
                   </h5>
                   <div
@@ -100,9 +94,8 @@ const FeatureImgContentSeven = () => {
                     data-bs-parent="#accordionExample"
                   >
                     <div className="accordion-body">
-                      Phosfluorescently deliver cooperative testing procedures
-                      after integrated communities. Dramatically simplify
-                      resource-leveling models with unique.
+                    The lightweight, wireless device can be easily distributed to communities with limited medical infrastructure, 
+                    expanding the reach of quality services.
                     </div>
                   </div>
                 </div>
