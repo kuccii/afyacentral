@@ -260,7 +260,7 @@ const Navbar = ({ navDark, insurance, classOption }) => {
             {/* <Link href="https://app.qivook.com/users/login">
               <a className="btn btn-link text-decoration-none me-2">Sign In</a>
             </Link> */}
-            <Link href="https://app.qivook.com/">
+            {/* <Link href="https://app.qivook.com/">
               <a
                 className={
                   insurance ? 'ins-btn ins-primary-btn' : 'btn btn-primary'
@@ -268,7 +268,7 @@ const Navbar = ({ navDark, insurance, classOption }) => {
               >
                 Marketplace
               </a>
-            </Link>
+            </Link> */}
           </div>
 
           <div
