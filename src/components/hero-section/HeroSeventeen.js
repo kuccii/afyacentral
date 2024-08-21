@@ -95,7 +95,7 @@ const HeroSeventeen = () => {
               </h4>
             </div>
             <div className="ins-title">
-              <div className="d-flex align-items-center">
+              {/* <div className="d-flex align-items-center">
                 <span className="subtitle fw-bold me-1 display-6 teal-text" style={{color: "#219C90"}} >Our Marketplace</span>
                 <span>
                   <svg
@@ -116,7 +116,7 @@ const HeroSeventeen = () => {
                     />
                   </svg>
                 </span>
-              </div>
+              </div> */}
               <h2 className="mt-2 ins-heading mb-0 text-white">
               Search Product & Find Verified Sellers Across Africa
                 {/* <mark style={{color: "#ffc107"}}>East</mark>  */}
