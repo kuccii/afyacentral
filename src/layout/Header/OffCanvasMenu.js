@@ -81,11 +81,11 @@ const OffCanvasMenu = () => {
             </a>
           </Link>
         </span> */}
-        <span data-bs-dismiss="offcanvas" aria-label="Close">
+        {/* <span data-bs-dismiss="offcanvas" aria-label="Close">
           <Link href="https://app.qivook.com">
             <a className="btn btn-primary">Marketplace</a>
           </Link>
-        </span>
+        </span> */}
       </div>
     </div>
   );
