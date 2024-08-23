@@ -22,7 +22,7 @@ const AppLandingTwoHome = () => {
       <FeatureImgContentSix />
       <FeatureImgContentSeven />
       <CtaTwo />
-      <TestimonialThree />
+      {/* <TestimonialThree /> */}
       <PromoWithVideo />
       <CtaThree />
       <Footer footerLight />

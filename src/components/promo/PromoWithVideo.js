@@ -25,10 +25,9 @@ const PromoWithVideo = () => {
                   <span className="far icon-one">
                     <FaChartPie />
                   </span>
-                  <h5 className="h6">Fully Functional</h5>
+                  <h5 className="h6">user-Centric Approach</h5>
                   <p>
-                    Eaton cheeky blimy bog bugger all mate simplify fully
-                    pardon.
+                  AfyaCentral prioritizes user-friendly design for an intuitive healthcare experience.
                   </p>
                 </div>
               </div>
@@ -37,8 +36,8 @@ const PromoWithVideo = () => {
                   <span className="far icon-two">
                     <FaPenNib />
                   </span>
-                  <h5 className="h6">UX Design</h5>
-                  <p>Eaton cheeky simplify fully bog bugger all mate pardon.</p>
+                  <h5 className="h6">seamless Connectivity</h5>
+                  <p>tay connected with AfyaCentral for continuous support and communication.</p>
                 </div>
               </div>
               <div className="col-lg-3 col-xl-3 col-md-6 mt-4 mt-md-4 mt-lg-0">
@@ -46,10 +45,9 @@ const PromoWithVideo = () => {
                   <span className="far icon-three">
                     <BiNetworkChart className="fa-lg" />
                   </span>
-                  <h5 className="h6">Stay Connected</h5>
+                  <h5 className="h6">Personalized</h5>
                   <p>
-                    Eaton cheeky blimy bog bugger simplify fully all mate
-                    pardon.
+                  tay connected with AfyaCentral for continuous support and communication.
                   </p>
                 </div>
               </div>
@@ -58,10 +56,9 @@ const PromoWithVideo = () => {
                   <span className="far icon-four">
                     <FaBezierCurve className="fa-lg" />
                   </span>
-                  <h5 className="h6">Easy to customized</h5>
+                  <h5 className="h6">Innovative Approach</h5>
                   <p>
-                    Eaton cheeky blimy bog bugger all mate pardon simplify
-                    fully.
+                  fyaCentral offers cutting-edge solutions to enhance your overall healthcare experience.
                   </p>
                 </div>
               </div>

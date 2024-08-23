@@ -16,9 +16,8 @@ const FeatureImgThree = ({ paddingTop }) => {
             <div className="col-lg-5 col-md-12">
               <SectionTitle
                 subtitle="Features"
-                title="Powerful Solutions for Your Business Needs"
-                description="Quickly incubate functional channels with multidisciplinary
-                  architectures authoritatively fabricate."
+                title="Powerful Solution for Mothers"
+                description=""
               />
               <div>
                 <ul className="list-unstyled mt-5">

@@ -24,14 +24,13 @@ const CtaTwo = () => {
               <div className="app-two-cta-right px-md-0 pt-5 pt-md-0">
                 <div className="section-heading text-white">
                   <h2 className="text-white">
-                    Powerful Solutions for Your Business Needs
+                    Powerful Solutions for Mothers
                   </h2>
                   <p>
-                    Quickly incubate functional channels with multidisciplinary
-                    architectures authoritatively fabricate.
+                    
                   </p>
                 </div>
-                <div className="cta-count">
+                {/* <div className="cta-count">
                   <ul className="list-unstyled d-flex">
                     <li className="me-4">
                       <h3 className="text-white mb-0">72k+</h3>
@@ -46,7 +45,7 @@ const CtaTwo = () => {
                       <span>App download</span>
                     </li>
                   </ul>
-                </div>
+                </div> */}
                 <div className="action-btns mt-5">
                   <Link href="/contact-us">
                     <a className="btn btn-outline-light">Learn More</a>
