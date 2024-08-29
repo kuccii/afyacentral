@@ -16,10 +16,11 @@ const HeroSectionTwo = () => {
               <div className="about-content-left">
                 <div className="about-info mb-5">
                   <h1 className="fw-bold display-5">
-                  Join Us in the Future of Global Commerce.
+                  Transforming Maternal and Infant Healthcare in Sub-Saharan Africa
                   </h1>
                   <p className="lead">
-                  We invite you to join us on this exciting journey of cross-border trade transformation{'  With QIVOOK, you have a partner committed to your success and dedicated to making cross-border trading accessible, efficient, and trustworthy.'}
+                  Welcome to AfyaCentral, where technology meets healthcare to make a meaningful difference in the lives of mothers and infants across Sub-Saharan Africa.
+                  {/* {'  With QIVOOK, you have a partner committed to your success and dedicated to making cross-border trading accessible, efficient, and trustworthy.'} */}
                   </p>
                   {/* <Link href="/career">
                     <a className="btn btn-primary mt-4 me-3">Open Positions</a>
