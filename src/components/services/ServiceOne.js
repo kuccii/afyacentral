@@ -49,7 +49,7 @@ const ServiceOne = ({ bgDark }) => {
                   </span>
                 </div>
                 <div className="feature-content">
-                  <h3 className="h5">Market intelligence</h3>
+                  <h3 className="h5">Continuous Health Monitoring</h3>
                   <p className="mb-0"></p>
                 </div>
                 {/* <Link href="">
@@ -74,7 +74,7 @@ const ServiceOne = ({ bgDark }) => {
                   </span>
                 </div>
                 <div className="feature-content">
-                  <h3 className="h5">Comprehensive trade information</h3>
+                  <h3 className="h5">Remote Patient Monitoring</h3>
                   <p className="mb-0"></p> 
                   
                 </div>
@@ -100,7 +100,7 @@ const ServiceOne = ({ bgDark }) => {
                   </span>
                 </div>
                 <div className="feature-content">
-                  <h3 className="h5">Reguratory assistance</h3>
+                  <h3 className="h5">Health Alerts and Notifications</h3>
                   <p className="mb-0">
                     </p>
                 </div>
@@ -126,7 +126,7 @@ const ServiceOne = ({ bgDark }) => {
                   </span>
                 </div>
                 <div className="feature-content">
-                  <h3 className="h5">Verified supplier network</h3>
+                  <h3 className="h5">Data Analytics and Reporting</h3>
                   <p className="mb-0">
                   
                   </p>
@@ -153,7 +153,7 @@ const ServiceOne = ({ bgDark }) => {
                   </span>
                 </div>
                 <div className="feature-content">
-                  <h3 className="h5">Negotiation support</h3>
+                  <h3 className="h5">Telehealth Integration</h3>
                   <p className="mb-0">
                   
                   </p>
@@ -174,7 +174,7 @@ const ServiceOne = ({ bgDark }) => {
                     : "bg-white"
                 }`}
               >
-                <div className="icon-box d-inline-block rounded-circle bg-warning-soft mb-32">
+                {/* <div className="icon-box d-inline-block rounded-circle bg-warning-soft mb-32">
                   <span className="fal">
                     <HiOutlineCog className="h3 text-warning" />
                   </span>
@@ -184,7 +184,7 @@ const ServiceOne = ({ bgDark }) => {
                   <p className="mb-0">
                  
                   </p>
-                </div>
+                </div> */}
                 {/* <Link href="">
                   <a className="link-with-icon text-decoration-none mt-3">
                     View Details{" "}
